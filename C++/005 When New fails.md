@@ -1,0 +1,2 @@
+- In some rare cases the new operator will fail to allocate dynamic memory from the heap, when that happens you wont have any mechanism for recovery an exception will be thrown causing your program to crash
+- This happens very rarely

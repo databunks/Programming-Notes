@@ -1,0 +1,1 @@
+- using "\n" is faster than using std::endl 
